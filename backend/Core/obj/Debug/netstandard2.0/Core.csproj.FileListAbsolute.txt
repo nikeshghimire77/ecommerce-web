@@ -28,7 +28,6 @@ E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
 E:\Project\skinet\backend\Core\bin\Debug\netstandard2.0\Core.deps.json
 E:\Project\skinet\backend\Core\bin\Debug\netstandard2.0\Core.dll
 E:\Project\skinet\backend\Core\bin\Debug\netstandard2.0\Core.pdb
-E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
 E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
 E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
