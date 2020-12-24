@@ -33,3 +33,4 @@ E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.dll
 E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.pdb
+E:\Project\skinet\backend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
