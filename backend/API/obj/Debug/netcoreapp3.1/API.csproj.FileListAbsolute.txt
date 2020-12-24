@@ -1,3 +1,255 @@
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shres\Desktop\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shres\Desktop\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.dll
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.pdb
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\API.exe
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\API.deps.json
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\API.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\API.pdb
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Core.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Project\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+E:\Project\skinet\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.dll
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.pdb
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\API.exe
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\API.deps.json
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\API.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\API.pdb
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Core.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Project\.NET Project\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+E:\Project\.NET Project\skinet\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -7,21 +259,18 @@ E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\API.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\API.pdb
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.dll
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.pdb
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
@@ -30,21 +279,41 @@ E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Confi
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
@@ -52,7 +321,16 @@ E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Core.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Core.pdb
-E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
-E:\Project\skinet\backend\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
 E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
 E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.dll
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.pdb
+E:\Project\skinet\backend\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache

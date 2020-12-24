@@ -1,13 +1,13 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 using Core.Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using System.Text.Json;
-using System.Text.Json;
-using Newtonsoft.Json;
+
 
 namespace Infrastructure.Data
 {
@@ -27,9 +27,9 @@ namespace Infrastructure.Data
                     {
                         context.ProductBrands.Add(item);
                     }
-                    await context.SaveChangesAsync();
+                        await context.SaveChangesAsync();
                 }
-
+                                               
                 if (!context.ProductTypes.Any())
                 {
                     var typesData = File.ReadAllText("../Infrastructure/Data/SeedData/types.json");
@@ -39,9 +39,9 @@ namespace Infrastructure.Data
                     {
                         context.ProductTypes.Add(item);
                     }
-                    await context.SaveChangesAsync();
+                        await context.SaveChangesAsync();
                 }
-
+                
                 if (!context.Products.Any())
                 {
                     var productsData = File.ReadAllText("../Infrastructure/Data/SeedData/products.json");

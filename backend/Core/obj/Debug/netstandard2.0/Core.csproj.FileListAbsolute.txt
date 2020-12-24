@@ -1,3 +1,30 @@
+C:\Users\shres\Desktop\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\shres\Desktop\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\shres\Desktop\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\shres\Desktop\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\shres\Desktop\skinet\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\shres\Desktop\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\shres\Desktop\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\shres\Desktop\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\shres\Desktop\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
+E:\Project\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+E:\Project\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+E:\Project\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+E:\Project\skinet\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+E:\Project\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+E:\Project\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
+E:\Project\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+E:\Project\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+E:\Project\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+E:\Project\.NET Project\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+E:\Project\.NET Project\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+E:\Project\.NET Project\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+E:\Project\.NET Project\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
 E:\Project\skinet\backend\Core\bin\Debug\netstandard2.0\Core.deps.json
 E:\Project\skinet\backend\Core\bin\Debug\netstandard2.0\Core.dll
 E:\Project\skinet\backend\Core\bin\Debug\netstandard2.0\Core.pdb
