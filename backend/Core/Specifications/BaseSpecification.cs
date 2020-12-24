@@ -6,9 +6,18 @@ namespace Core.Specifications
 {
     public class BaseSpecification<T> : ISpecification<T>
     {
+        public BaseSpecification()
+        {
+        }
+
         public BaseSpecification(Expression<Func<T, bool>> criteria)
         {
             Criteria = criteria;
+        }
+
+        public BaseSpecification(List<Expression<Func<T, object>>> includes)
+        {
+            Includes = includes;
         }
 
         public Expression<Func<T, bool>> Criteria { get; }
