@@ -8,7 +8,14 @@ import { ToastrModule } from 'ngx-toastr';
 
 @NgModule({
   declarations: [NavBarComponent, NotFoundComponent, ServerErrorComponent],
-  imports: [CommonModule, RouterModule, ToastrModule.forRoot()],
+  imports: [
+    CommonModule,
+    RouterModule,
+    ToastrModule.forRoot({
+      positionClass: 'toast-bottom-right',
+      preventDuplicates: true,
+    }),
+  ],
   exports: [NavBarComponent],
 })
 export class CoreModule {}
