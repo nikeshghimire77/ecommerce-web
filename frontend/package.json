@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "typecheck": "tsc",
+    "typecheck:watch": "tsc -w"
   },
   "private": true,
   "dependencies": {
